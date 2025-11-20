@@ -1,26 +1,3 @@
-👋 Hi, I am Atul Pal
-
-A passionate Software developer from India 🇮🇳
-
-🌱 I’m currently learning
-
-ML and AI | MERN Stack | DSA
-
-📫 How to reach me
-
-📧 atul07pal@gmail.com
-
-🔗 Connect with me
-
-<a href="https://www.linkedin.com/in/atulpal02/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" width="40"/></a>
-<a href="https://x.com/atulpal02" target="_blank"><img src="https://img.icons8.com/color/48/twitter.png" width="40"/></a>
-<a href="https://leetcode.com/u/atulpal02/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-duo-tal-revivo/40/external-leetcode.png" width="40"/></a>
-<a href="https://www.geeksforgeeks.org/user/atulpal02/" target="_blank"><img src="https://img.icons8.com/color/48/geeksforgeeks.png" width="40"/></a>
-
-🛠️ Languages and Tools
-<img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40"/> <img src="https://img.icons8.com/color/48/python.png" width="40"/> <img src="https://img.icons8.com/color/48/javascript.png" width="40"/> <img src="https://img.icons8.com/color/48/html-5.png" width="40"/> <img src="https://img.icons8.com/color/48/css3.png" width="40"/> <img src="https://img.icons8.com/color/48/mongodb.png" width="40"/> <img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/> <img src="https://img.icons8.com/color/48/nodejs.png" width="40"/> <img src="https://img.icons8.com/color/48/express.png" width="40"/> <img src="https://img.icons8.com/color/48/git.png" width="40"/> <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40"/> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-redis-an-in-memory-data-structure-store-logo-color-tal-revivo.png" width="40"/>
-
-
 
 
 
